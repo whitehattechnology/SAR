@@ -595,6 +595,17 @@ a:hover {
 #content3-q .mbr-section-subtitle {
   text-align: center;
 }
+#footer2-x .footer-list {
+  color: #74a3c7;
+}
+#footer2-x .btn-social {
+  border-color: #74a3c7;
+  color: #74a3c7;
+}
+#footer2-x .btn-social:hover {
+  background: #74a3c7;
+  color: #fff;
+}
 #content3-a .mbr-section-title,
 #content3-a .mbr-section-subtitle {
   text-align: center;
