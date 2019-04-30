@@ -18,13 +18,17 @@
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
-      }
+      },
+      "additionalSetColors": [
+        "#e9a165"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 5,
-    "versionPublish": "4.9.7"
+    "uniqCompNum": 29,
+    "versionPublish": "4.9.7",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -108,7 +112,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Facilitator training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Working Agreements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Houses of Healing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Domestic Violence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Creative Writing </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Spoken Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Our Story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1LufpK5UpGeVzn4-sfnyfU4fHa15CzBpGjAudBdoVNaE/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -139,102 +143,971 @@
             "showButtons": true,
             "contentAlign": "center",
             "showArrow": true,
-            "showFeatures": true,
-            "columns": 3,
-            "showFeaturesImages": true,
-            "iconsBgColor": "#fff",
-            "showFeaturesTitles": true,
-            "showFeaturesTexts": true,
-            "showFeaturesButtons": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/west-sac-orig-936x800.jpg",
             "parallax": false,
             "bgColorRadio": false,
-            "bgColor": "#5b5f6b",
-            "bgVideoRadio": true,
+            "bgColor": "#bdb39a",
+            "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/hO6yIBMN2vQ?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?time_continue=1&v=hO6yIBMN2vQ",
-              "width": 1280,
-              "height": 720
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
             },
-            "overlay": false,
-            "overlayColor": "#91683b",
-            "overlayOpacity": 0.8
+            "overlay": true,
+            "overlayColor": "#264a54",
+            "overlayOpacity": 0.2
           },
-          "title": "Full Screen Intro",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "mobile",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title1": "What is Mobirise",
-          "subtitle1": "Awesome",
-          "text1": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "responsive",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title2": "What is Mobirise",
-          "subtitle2": "Awesome",
-          "text2": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "mobirise",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title3": "What is Mobirise",
-          "subtitle3": "Awesome",
-          "text3": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "devices",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title4": "What is Mobirise",
-          "subtitle4": "Awesome",
-          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "title": "A PATH TO CHANGE",
+          "text": "\"I wanted change,\n<br>I just didn't know how.\"",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"https://docs.google.com/forms/d/1LufpK5UpGeVzn4-sfnyfU4fHa15CzBpGjAudBdoVNaE/edit\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GET INVOLVED</a><a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DONATE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-4",
+          "_name": "header4",
+          "_anchor": "header4-7",
           "_styles": {
-            ".mbr-iconfont": {
-              "color": "#fff",
-              "border-color": "#fff"
-            },
+            ".mbr-iconfont": {},
             ".mbr-table-cell": {
-              "vertical-align": "bottom"
+              "vertical-align": "middle"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "<b>Our Misssion</b>",
+          "meta": "Established 2005",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-n"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 16,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColorRadio": true,
+            "bgColor": "#e9a165"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/balance-cobblestone-conceptual-279470-1400x1147.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Download for Windows",
+          "text": "Our mission is to reduce the recidivism rates of incarceration. In helping adult and youth offenders heal from emotional wounds of negative experiences, offenders will learn to uproot the causal factors that fuel their destructive lifestyles. Holistically speaking, we are branching out our endeavors to help others in our local communities as well, i.e, high/middle schools and community centers.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-m"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "<b>Our Goals</b>",
+          "meta": "Established 2005",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-q"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "collapseAll": true,
+            "tabs": "6",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.6"
+          },
+          "title": "Our Goals",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1-o-init\" data-core=\"\" href=\"#collapseOneaccordion1-o\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><i><span class=\"sign\"></span>Traumatic Experiences\n</i></a>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-o-init\" data-core=\"\" href=\"#collapseTwoaccordion1-o\" aria-expanded=\"true\" aria-controls=\"collapseTwo\"><i>Suppressed Emotions &amp; Forgiveness</i></a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-o-init\" data-core=\"\" href=\"#collapseThreeaccordion1-o\" aria-expanded=\"true\" aria-controls=\"collapseThree\"><i>Dysfunctional Families &amp; Behaviors\n</i></a>",
+          "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-o-init\" data-core=\"\" href=\"#collapseFouraccordion1-o\" aria-expanded=\"true\" aria-controls=\"collapseFour\"><i>Destructive Life Styles\n</i></a>",
+          "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-o-init\" data-core=\"\" href=\"#collapseFiveaccordion1-o\" aria-expanded=\"true\" aria-controls=\"collapseFive\"><i>Distorted Thinking Patterns\n</i></a>",
+          "title6": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-o-init\" data-core=\"\" href=\"#collapseSixaccordion1-o\" aria-expanded=\"true\" aria-controls=\"collapseSix\"><i>The Impact of Victimization\n</i></a>",
+          "text1": "<p>Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim.</p>",
+          "text2": "<p>Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim.</p>",
+          "text3": "<p>Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim.</p>",
+          "text4": "<p>Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim.</p>",
+          "text5": "<p>Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim.</p>",
+          "text6": "<p>Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "accordion1",
+          "_anchor": "accordion1-o"
+        }
+      ]
+    },
+    "our-program.html": {
+      "settings": {
+        "title": "Our Program",
+        "order": 2,
+        "meta_descr": "​The SAR Program"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "7",
+            "paddingBottom": 3,
+            "bgColor": "#fff"
+          },
+          "title": "Our Programs",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-a"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#74a3c7"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#74a3c7"
+            },
+            ".link, .dropdown-item": {
+              "color": "#74a3c7",
+              "font-family": "'Libre Franklin', serif"
+            },
+            ".link": {
+              "font-size": "0.8125rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.880rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#74a3c7"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#74a3c7",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#5aac98!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#fff",
+            "fontSize": 0.8125,
+            "imageSize": 4,
+            "fontName": {
+              "name": "Libre Franklin",
+              "css": "'Libre Franklin', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            "fontColor": "#74a3c7",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Facilitator training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Working Agreements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Houses of Healing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Domestic Violence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Creative Writing </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Spoken Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Our Story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1LufpK5UpGeVzn4-sfnyfU4fHa15CzBpGjAudBdoVNaE/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">DONATE</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sar-circle-logo-133x100.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-8"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": false,
+            "imageSize": 30,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#bb412e",
+            "containerColor2": "#94a5d0",
+            "containerColor3": "#2b4484",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.8
+          },
+          "media": {
+            "image": {
+              "active": false,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/header/06.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Intro with Media",
+          "text": "In 2015, SAR celebrated their ten year anniversary at Chowchilla Valley State Prison. This short video shows the leadership, heart, and transformation that is achieved when people have the space and support to heal old wounds and learn tools that recover, transform and thrive. ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header7",
+          "_anchor": "header7-9"
+        }
+      ]
+    },
+    "our-story.html": {
+      "settings": {
+        "title": "​The SAR Story ",
+        "order": 1,
+        "meta_descr": "​The SAR Story "
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "7",
+            "paddingBottom": 3,
+            "bgColor": "#fff"
+          },
+          "title": "The SAR Story",
+          "meta": "Founded 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-a"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>\"I wanted change,  I just didn't know how.\"</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-r",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#74a3c7"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#74a3c7"
+            },
+            ".link, .dropdown-item": {
+              "color": "#74a3c7",
+              "font-family": "'Libre Franklin', serif"
+            },
+            ".link": {
+              "font-size": "0.8125rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.880rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#74a3c7"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#74a3c7",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#5aac98!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#fff",
+            "fontSize": 0.8125,
+            "imageSize": 4,
+            "fontName": {
+              "name": "Libre Franklin",
+              "css": "'Libre Franklin', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            "fontColor": "#74a3c7",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Facilitator training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Working Agreements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Houses of Healing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Domestic Violence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Creative Writing </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Spoken Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Our Story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1LufpK5UpGeVzn4-sfnyfU4fHa15CzBpGjAudBdoVNaE/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">DONATE</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sar-circle-logo-133x100.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-8"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": false,
+            "imageSize": 30,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#bb412e",
+            "containerColor2": "#94a5d0",
+            "containerColor3": "#2b4484",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.8
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/header/06.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=hO6yIBMN2vQ",
+              "aspectratio": "4:3",
+              "autoplay": "on",
+              "loop": false
+            }
+          },
+          "title": "Intro with Media",
+          "text": "In 2015, SAR celebrated their ten year anniversary at Chowchilla Valley State Prison. This short video shows the leadership, heart, and transformation that is achieved when people have the space and support to heal old wounds and learn tools that recover, transform and thrive. ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header7",
+          "_anchor": "header7-9"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Our Board",
+        "order": 4,
+        "meta_descr": "​The SAR Program"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "7",
+            "paddingBottom": 3,
+            "bgColor": "#fff"
+          },
+          "title": "<b>SAR Board</b>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-a"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#74a3c7"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#74a3c7"
+            },
+            ".link, .dropdown-item": {
+              "color": "#74a3c7",
+              "font-family": "'Libre Franklin', serif"
+            },
+            ".link": {
+              "font-size": "0.8125rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.880rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#74a3c7"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#74a3c7",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#5aac98!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#fff",
+            "fontSize": 0.8125,
+            "imageSize": 4,
+            "fontName": {
+              "name": "Libre Franklin",
+              "css": "'Libre Franklin', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            "fontColor": "#74a3c7",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Facilitator training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Working Agreements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Houses of Healing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Domestic Violence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Creative Writing </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Spoken Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Our Story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1LufpK5UpGeVzn4-sfnyfU4fHa15CzBpGjAudBdoVNaE/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">DONATE</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sar-circle-logo-133x100.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-8"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showFeaturesImages": true,
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1276.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": "0.7"
+          },
+          "title": "Always on your terms",
+          "text": "Mobirise",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/daniel-245x244.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "<b>President &amp; Co-Founder<br></b>Antonio Silva<br><br>",
+          "subtitle1": "Awesome",
+          "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vestibulum ultrices tempor. Praesent sapien nibh, pharetra sed finibus id, mollis volutpat mi. Nunc leo massa, accumsan vitae viverra id, rutrum sit amet felis. Nunc a ultrices leo, in finibus massa. Proin aliquet nibh ut metus mattis, ac tincidunt enim vehicula. Sed non velit eu dolor consectetur malesuada. Integer aliquam, turpis nec facilisis imperdiet, mi orci gravida turpis, id aliquam urna augue sed arcu. Fusce vitae massa tincidunt, interdum nibh vel, egestas lacus. Praesent quis nibh et tellus ornare dapibus. Mauris pharetra nisi sit amet nunc sollicitudin pretium. Donec laoreet iaculis.<br>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Contact</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1671x1920.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title2": "<b>Board Member<br></b>Eryka Cohen<br><br>",
+          "subtitle2": "Awesome",
+          "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vestibulum ultrices tempor. Praesent sapien nibh, pharetra sed finibus id, mollis volutpat mi. Nunc leo massa, accumsan vitae viverra id, rutrum sit amet felis. Nunc a ultrices leo, in finibus massa. Proin aliquet nibh ut metus mattis, ac tincidunt enim vehicula. Sed non velit eu dolor consectetur malesuada. Integer aliquam, turpis nec facilisis imperdiet, mi orci gravida turpis, id aliquam urna augue sed arcu. Fusce vitae massa tincidunt, interdum nibh vel, egestas lacus. Praesent quis nibh et tellus ornare dapibus. Mauris pharetra nisi sit amet nunc sollicitudin pretium. Donec laoreet iaculis.<br>",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Contact</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features7",
+          "_anchor": "features7-i",
+          "_styles": {
+            ".mbr-iconfont": {},
+            ".heading-title": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "showHeading": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showFeaturesImages": true,
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          },
+          "title": "Always on your terms",
+          "text": "Mobirise",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1280x1920.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "<b>Board Member\n</b><div>Faith Johnston<br><br></div>",
+          "subtitle1": "Awesome",
+          "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vestibulum ultrices tempor. Praesent sapien nibh, pharetra sed finibus id, mollis volutpat mi. Nunc leo massa, accumsan vitae viverra id, rutrum sit amet felis. Nunc a ultrices leo, in finibus massa. Proin aliquet nibh ut metus mattis, ac tincidunt enim vehicula. Sed non velit eu dolor consectetur malesuada. Integer aliquam, turpis nec facilisis imperdiet, mi orci gravida turpis, id aliquam urna augue sed arcu. Fusce vitae massa tincidunt, interdum nibh vel, egestas lacus. Praesent quis nibh et tellus ornare dapibus. Mauris pharetra nisi sit amet nunc sollicitudin pretium. Donec laoreet iaculis.<br>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Contact</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/58384166-10218983827290304-7736625393167237120-n-1-627x627.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title2": "<b>Board Member<br></b>Veronica Preciado<br><br>",
+          "subtitle2": "Awesome",
+          "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vestibulum ultrices tempor. Praesent sapien nibh, pharetra sed finibus id, mollis volutpat mi. Nunc leo massa, accumsan vitae viverra id, rutrum sit amet felis. Nunc a ultrices leo, in finibus massa. Proin aliquet nibh ut metus mattis, ac tincidunt enim vehicula. Sed non velit eu dolor consectetur malesuada. Integer aliquam, turpis nec facilisis imperdiet, mi orci gravida turpis, id aliquam urna augue sed arcu. Fusce vitae massa tincidunt, interdum nibh vel, egestas lacus. Praesent quis nibh et tellus ornare dapibus. Mauris pharetra nisi sit amet nunc sollicitudin pretium. Donec laoreet iaculis.<br>",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Contact</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features7",
+          "_styles": {
+            ".mbr-iconfont": {},
+            ".heading-title": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "features7-j"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "showHeading": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showFeaturesImages": true,
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1276.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": "0.7"
+          },
+          "title": "Always on your terms",
+          "text": "Mobirise",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1280x1920.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "<b>Board Member\n</b><div>Mike Steffen<br><br></div>",
+          "subtitle1": "Awesome",
+          "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vestibulum ultrices tempor. Praesent sapien nibh, pharetra sed finibus id, mollis volutpat mi. Nunc leo massa, accumsan vitae viverra id, rutrum sit amet felis. Nunc a ultrices leo, in finibus massa. Proin aliquet nibh ut metus mattis, ac tincidunt enim vehicula. Sed non velit eu dolor consectetur malesuada. Integer aliquam, turpis nec facilisis imperdiet, mi orci gravida turpis, id aliquam urna augue sed arcu. Fusce vitae massa tincidunt, interdum nibh vel, egestas lacus. Praesent quis nibh et tellus ornare dapibus. Mauris pharetra nisi sit amet nunc sollicitudin pretium. Donec laoreet iaculis.<br>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Contact</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/58384166-10218983827290304-7736625393167237120-n-1-627x627.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title2": "<b>Board Member<br></b>Gina Nicole Arstrong<br><br>",
+          "subtitle2": "Awesome",
+          "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vestibulum ultrices tempor. Praesent sapien nibh, pharetra sed finibus id, mollis volutpat mi. Nunc leo massa, accumsan vitae viverra id, rutrum sit amet felis. Nunc a ultrices leo, in finibus massa. Proin aliquet nibh ut metus mattis, ac tincidunt enim vehicula. Sed non velit eu dolor consectetur malesuada. Integer aliquam, turpis nec facilisis imperdiet, mi orci gravida turpis, id aliquam urna augue sed arcu. Fusce vitae massa tincidunt, interdum nibh vel, egestas lacus. Praesent quis nibh et tellus ornare dapibus. Mauris pharetra nisi sit amet nunc sollicitudin pretium. Donec laoreet iaculis.<br>",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Contact</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features7",
+          "_styles": {
+            ".mbr-iconfont": {},
+            ".heading-title": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "features7-k"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "Calendar Page",
+        "order": 3,
+        "meta_descr": "​The SAR Program"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "7",
+            "paddingBottom": 3,
+            "bgColor": "#fff"
+          },
+          "title": "<b>Events Calendar</b>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-a"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<div class=\"responsiveCal\">\n\n<iframe src=\"https://calendar.google.com/calendar/embed?src=whitehattechnology.com_js5ambv6cqm1frr2eim8flet2c%40group.calendar.google.com&amp;ctz=America%2FPhoenix\" style=\"border: 0\" width=\"800\" height=\"600\" frameborder=\"0\" scrolling=\"no\"></iframe>\n</div>",
+          "_customCSS": ".responsiveCal {\n \nposition: relative; padding-bottom: 75%; height: 0; overflow: hidden;\n \n}\n \n.responsiveCal iframe {\n \nposition: absolute; top:0; left: 0; width: 100%; height: 100%;\n \n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-s",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#74a3c7"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#74a3c7"
+            },
+            ".link, .dropdown-item": {
+              "color": "#74a3c7",
+              "font-family": "'Libre Franklin', serif"
+            },
+            ".link": {
+              "font-size": "0.8125rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.880rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#74a3c7"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#74a3c7",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#5aac98!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#fff",
+            "fontSize": 0.8125,
+            "imageSize": 4,
+            "fontName": {
+              "name": "Libre Franklin",
+              "css": "'Libre Franklin', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            "fontColor": "#74a3c7",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Facilitator training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Working Agreements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Houses of Healing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Domestic Violence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Creative Writing </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Spoken Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Our Story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1LufpK5UpGeVzn4-sfnyfU4fHa15CzBpGjAudBdoVNaE/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">DONATE</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sar-circle-logo-133x100.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-8"
         }
       ]
     }
