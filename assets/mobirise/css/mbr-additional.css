@@ -748,6 +748,17 @@ a:hover {
 #menu1-8 .dropdown-item[aria-expanded="true"] {
   color: #5aac98!important;
 }
+#content3-z .mbr-section-title,
+#content3-z .mbr-section-subtitle {
+  text-align: center;
+}
+#content4-y P {
+  text-align: center;
+  font-size: 36px;
+}
+#msg-box1-10 H1 {
+  color: #333333;
+}
 #content3-a .mbr-section-title,
 #content3-a .mbr-section-subtitle {
   text-align: center;
@@ -919,4 +930,76 @@ a:hover {
 #menu1-8 .link[aria-expanded="true"],
 #menu1-8 .dropdown-item[aria-expanded="true"] {
   color: #5aac98!important;
+}
+#content3-a .mbr-section-title,
+#content3-a .mbr-section-subtitle {
+  text-align: center;
+}
+#menu1-8 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu1-8 .navbar-toggler {
+  color: #74a3c7;
+}
+#menu1-8 .close-icon::before,
+#menu1-8 .close-icon::after {
+  background-color: #74a3c7;
+}
+#menu1-8 .link,
+#menu1-8 .dropdown-item {
+  color: #74a3c7;
+  font-family: 'Libre Franklin', serif;
+}
+#menu1-8 .link {
+  font-size: 0.8125rem;
+}
+#menu1-8 .dropdown-item,
+#menu1-8 .nav-dropdown-sm .link {
+  font-size: 0.880rem;
+}
+#menu1-8 .link:hover,
+#menu1-8 .link:focus {
+  color: #5aac98;
+}
+#menu1-8 .dropdown-item:hover::before,
+#menu1-8 .dropdown-item:focus::before {
+  background: #5aac98;
+}
+#menu1-8 .dropdown-item:hover,
+#menu1-8 .dropdown-item:focus {
+  color: #74a3c7;
+}
+#menu1-8 .link[aria-expanded="true"],
+#menu1-8 .dropdown-menu {
+  background: #ffffff;
+}
+#menu1-8 .nav-dropdown-sm .link:focus,
+#menu1-8 .nav-dropdown-sm .link:hover,
+#menu1-8 .nav-dropdown-sm .dropdown-item:focus,
+#menu1-8 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu1-8 .navbar,
+#menu1-8 .nav-dropdown-sm,
+#menu1-8 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu1-8 .nav-dropdown-sm .dropdown-menu {
+  background: #fff;
+}
+#menu1-8 .bg-color.transparent .link {
+  color: #74a3c7;
+  transition: none;
+}
+#menu1-8 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu1-8 .bg-color.transparent.opened .link:hover,
+#menu1-8 .bg-color.transparent.opened .link:focus {
+  color: #5aac98;
+}
+#menu1-8 .link[aria-expanded="true"],
+#menu1-8 .dropdown-item[aria-expanded="true"] {
+  color: #5aac98!important;
+}
+#form2-13 .heading {
+  background: #5aac98;
 }
