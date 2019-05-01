@@ -112,7 +112,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Facilitator training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Working Agreements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Houses of Healing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Domestic Violence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Creative Writing </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Spoken Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1LufpK5UpGeVzn4-sfnyfU4fHa15CzBpGjAudBdoVNaE/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Facilitator training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Working Agreements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Houses of Healing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Domestic Violence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Creative Writing </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Spoken Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1LufpK5UpGeVzn4-sfnyfU4fHa15CzBpGjAudBdoVNaE/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -440,7 +440,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Facilitator training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Working Agreements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Houses of Healing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Domestic Violence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Creative Writing </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Spoken Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1LufpK5UpGeVzn4-sfnyfU4fHa15CzBpGjAudBdoVNaE/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Facilitator training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Working Agreements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Houses of Healing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Domestic Violence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Creative Writing </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Spoken Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1LufpK5UpGeVzn4-sfnyfU4fHa15CzBpGjAudBdoVNaE/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -512,6 +512,58 @@
           ],
           "_name": "header7",
           "_anchor": "header7-9"
+        },
+        {
+          "_params": {
+            "showIcons": true,
+            "rows": "3",
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "heading": "Copyright 2019, Self Awareness &amp; Recovery<br>",
+          "list1": "<a href=\"index.html\">Privacy Policy</a>",
+          "list2": "<a href=\"index.html\">Terms &amp; Conditions</a>",
+          "list3": "<a href=\"page5.html\">Contact Us</a>",
+          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
+          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
+          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
+          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/SelfAwarenessandRecovery/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/watch?time_continue=1&amp;v=hO6yIBMN2vQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-x",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            }
+          }
         }
       ]
     },
@@ -632,7 +684,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Facilitator training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Working Agreements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Houses of Healing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Domestic Violence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Creative Writing </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Spoken Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1LufpK5UpGeVzn4-sfnyfU4fHa15CzBpGjAudBdoVNaE/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Facilitator training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Working Agreements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Houses of Healing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Domestic Violence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Creative Writing </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Spoken Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1LufpK5UpGeVzn4-sfnyfU4fHa15CzBpGjAudBdoVNaE/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -810,12 +862,64 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "​The long-term effects of trauma in an individual, in a family, and in a community can be extremely detrimental to health outcomes and quality of life. Many young people on our communities come from childhoods filled with neglect, domestic violence, substance abuse, gang-related neighborhood violence, and social fragmentation. They have not been able to gain the perspective or social-emotional skills to heal from this trauma without guidance from positive adult role models. Young people and adults alike can fall into a cycle of violence that can destroy their health and livelihoods and last generations if not properly addressed and understood. By being able to identify the center of a person’s trauma, they can begin to understand and allow the healing process to transform their lives and thus their health.\r<div><br></div>",
+          "text": "​The long-term effects of trauma in an individual, in a family, and in a community can be extremely detrimental to health outcomes and quality of life. Many young people on our communities come from childhoods filled with neglect, domestic violence, substance abuse, gang-related neighborhood violence, and social fragmentation. They have not been able to gain the perspective or social-emotional skills to heal from this trauma without guidance from positive adult role models. Young people and adults alike can fall into a cycle of violence that can destroy their health and livelihoods and last generations if not properly addressed and understood. By being able to identify the center of a person’s trauma, they can begin to understand and allow the healing process to transform their lives and thus their health.\n<div><br></div>",
           "_tags": [
             "Theme"
           ],
           "_name": "content2",
           "_anchor": "content2-11"
+        },
+        {
+          "_params": {
+            "showIcons": true,
+            "rows": "3",
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "heading": "Copyright 2019, Self Awareness &amp; Recovery<br>",
+          "list1": "<a href=\"index.html\">Privacy Policy</a>",
+          "list2": "<a href=\"index.html\">Terms &amp; Conditions</a>",
+          "list3": "<a href=\"page5.html\">Contact Us</a>",
+          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
+          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
+          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
+          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/SelfAwarenessandRecovery/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/watch?time_continue=1&amp;v=hO6yIBMN2vQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-x",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            }
+          }
         }
       ]
     },
@@ -917,7 +1021,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Facilitator training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Working Agreements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Houses of Healing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Domestic Violence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Creative Writing </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Spoken Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1LufpK5UpGeVzn4-sfnyfU4fHa15CzBpGjAudBdoVNaE/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Facilitator training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Working Agreements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Houses of Healing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Domestic Violence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Creative Writing </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Spoken Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1LufpK5UpGeVzn4-sfnyfU4fHa15CzBpGjAudBdoVNaE/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1139,6 +1243,58 @@
             }
           },
           "_anchor": "features7-k"
+        },
+        {
+          "_params": {
+            "showIcons": true,
+            "rows": "3",
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "heading": "Copyright 2019, Self Awareness &amp; Recovery<br>",
+          "list1": "<a href=\"index.html\">Privacy Policy</a>",
+          "list2": "<a href=\"index.html\">Terms &amp; Conditions</a>",
+          "list3": "<a href=\"page5.html\">Contact Us</a>",
+          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
+          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
+          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
+          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/SelfAwarenessandRecovery/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/watch?time_continue=1&amp;v=hO6yIBMN2vQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-x",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            }
+          }
         }
       ]
     },
@@ -1254,7 +1410,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Facilitator training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Working Agreements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Houses of Healing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Domestic Violence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Creative Writing </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Spoken Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1LufpK5UpGeVzn4-sfnyfU4fHa15CzBpGjAudBdoVNaE/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Facilitator training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Working Agreements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Houses of Healing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Domestic Violence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Creative Writing </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Spoken Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1LufpK5UpGeVzn4-sfnyfU4fHa15CzBpGjAudBdoVNaE/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1278,6 +1434,58 @@
           ],
           "_name": "menu1",
           "_anchor": "menu1-8"
+        },
+        {
+          "_params": {
+            "showIcons": true,
+            "rows": "3",
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "heading": "Copyright 2019, Self Awareness &amp; Recovery<br>",
+          "list1": "<a href=\"index.html\">Privacy Policy</a>",
+          "list2": "<a href=\"index.html\">Terms &amp; Conditions</a>",
+          "list3": "<a href=\"page5.html\">Contact Us</a>",
+          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
+          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
+          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
+          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/SelfAwarenessandRecovery/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/watch?time_continue=1&amp;v=hO6yIBMN2vQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-x",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            }
+          }
         }
       ]
     },
@@ -1379,7 +1587,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Facilitator training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Working Agreements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Houses of Healing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Domestic Violence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Creative Writing </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Spoken Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1LufpK5UpGeVzn4-sfnyfU4fHa15CzBpGjAudBdoVNaE/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Facilitator training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Working Agreements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Houses of Healing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Domestic Violence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Creative Writing </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Spoken Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1LufpK5UpGeVzn4-sfnyfU4fHa15CzBpGjAudBdoVNaE/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1468,6 +1676,58 @@
           "_styles": {
             ".heading": {
               "background": "#5aac98"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showIcons": true,
+            "rows": "3",
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "heading": "Copyright 2019, Self Awareness &amp; Recovery<br>",
+          "list1": "<a href=\"index.html\">Privacy Policy</a>",
+          "list2": "<a href=\"index.html\">Terms &amp; Conditions</a>",
+          "list3": "<a href=\"page5.html\">Contact Us</a>",
+          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
+          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
+          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
+          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/SelfAwarenessandRecovery/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/watch?time_continue=1&amp;v=hO6yIBMN2vQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-x",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
             }
           }
         }
