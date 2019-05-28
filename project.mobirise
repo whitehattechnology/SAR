@@ -1645,7 +1645,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/at-yolo-continuation-2018-1080x809-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "At YOLO CONTINUATION 2018",
+                "caption": "2018 At YOLO Continuation",
                 "active": false
               },
               {
@@ -1657,7 +1657,7 @@
                 "title": "",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "caption": "California Medical Facility 2017 SAR Facilitator Training",
+                "caption": "2017 California Medical Facility, SAR Facilitator Training",
                 "active": false
               },
               {
@@ -1669,7 +1669,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/resized-20170613-93747-1600x1200-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "SAR Discussion Group",
+                "caption": "2016 SAR Discussion Group",
                 "active": false
               },
               {
@@ -1681,7 +1681,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/20170302-203452-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "#SchoolsNotPrisons Panel",
+                "caption": "2016 #SchoolsNotPrisons Panel",
                 "active": false
               },
               {
@@ -1693,7 +1693,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/june-2017-burbank-high-sar-graduation-1600x1200-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "JUNE 2017 BURBANK HIGH SAR Graduation",
+                "caption": "2017 Burbank High SAR Graduation",
                 "active": false
               },
               {
@@ -1705,7 +1705,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/20170501-121230-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Activist Rally",
+                "caption": "2018 Activist Rally",
                 "active": false
               },
               {
@@ -1717,7 +1717,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dec.-2016-sar-facilitator-graduation-2000x1471-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Dec. 2016 SAR Facilitator Graduation",
+                "caption": "2016 SAR Facilitator Graduation",
                 "active": false
               },
               {
@@ -1729,7 +1729,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/group-meeting-with-daniel-2000x747-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "group meeting with daniel",
+                "caption": "2017 Group Meeting with SAR",
                 "active": true
               }
             ]
