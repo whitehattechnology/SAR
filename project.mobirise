@@ -2262,7 +2262,7 @@
             "overlayColor": "#91683b",
             "overlayOpacity": 0.8
           },
-          "title": "<br><br><b>Facilitator/\r</b><div><b>Leadership Training</b></div>",
+          "title": "<br><br><b>Facilitator/\n</b><div><b>Leadership Training</b></div>",
           "text": "Program Highlights",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
           "media1": {
