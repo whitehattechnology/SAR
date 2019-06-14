@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Site-04-30_0837",
-    "currentPage": "Facilitator-Training.html",
+    "name": "SAR (go live)",
+    "currentPage": "Our-Board.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -27,9 +27,14 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 69,
-    "versionPublish": "4.9.7",
-    "screenshot": "screenshot.png"
+    "uniqCompNum": 81,
+    "versionPublish": "4.10.3",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "siteUrl": "undefined",
+    "google-analytics": "",
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
@@ -113,7 +118,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">SAR Model of Transformation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Houses-of-Healing.html\">Houses of Healing&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Power-Source.html\">Power Source (Youth Program)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Healthy-Relationships.html\">Healthy Relationships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Self-Esteem-Build-Gang-Intervention.html\">Self Esteem Build &amp; Gang Intervention</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Creative-Writing-&amp;-Spoken-Word.html\">Creative Writing &amp; Spoken Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"The-4-Agreements.html\">The 4 Agreements</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">Adult &amp; Youth Workshops</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -229,65 +234,6 @@
           ],
           "_name": "content8",
           "_anchor": "content8-m"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgColor": "#fff"
-          },
-          "title": "<b>Our Goals</b>",
-          "meta": "Established 2005",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content3",
-          "_anchor": "content3-q"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "collapseAll": true,
-            "tabs": "6",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.6"
-          },
-          "title": "Our Goals",
-          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1-o-init\" data-core=\"\" href=\"#collapseOneaccordion1-o\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><i><span class=\"sign\"></span>Traumatic Experiences\n</i></a>",
-          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-o-init\" data-core=\"\" href=\"#collapseTwoaccordion1-o\" aria-expanded=\"true\" aria-controls=\"collapseTwo\"><i>Suppressed Emotions &amp; Forgiveness</i></a>",
-          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-o-init\" data-core=\"\" href=\"#collapseThreeaccordion1-o\" aria-expanded=\"true\" aria-controls=\"collapseThree\"><i>Dysfunctional Families &amp; Behaviors\n</i></a>",
-          "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-o-init\" data-core=\"\" href=\"#collapseFouraccordion1-o\" aria-expanded=\"true\" aria-controls=\"collapseFour\"><i>Destructive Life Styles\n</i></a>",
-          "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-o-init\" data-core=\"\" href=\"#collapseFiveaccordion1-o\" aria-expanded=\"true\" aria-controls=\"collapseFive\"><i>Distorted Thinking Patterns\n</i></a>",
-          "title6": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-o-init\" data-core=\"\" href=\"#collapseSixaccordion1-o\" aria-expanded=\"true\" aria-controls=\"collapseSix\"><i>The Impact of Victimization\n</i></a>",
-          "text1": "<p>Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim.</p>",
-          "text2": "<p>Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim.</p>",
-          "text3": "<p>Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim.</p>",
-          "text4": "<p>Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim.</p>",
-          "text5": "<p>Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim.</p>",
-          "text6": "<p>Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "accordion1",
-          "_anchor": "accordion1-o"
         },
         {
           "_params": {
@@ -441,7 +387,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">SAR Model of Transformation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Houses-of-Healing.html\">Houses of Healing&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Power-Source.html\">Power Source (Youth Program)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Healthy-Relationships.html\">Healthy Relationships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Self-Esteem-Build-Gang-Intervention.html\">Self Esteem Build &amp; Gang Intervention</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Creative-Writing-&amp;-Spoken-Word.html\">Creative Writing &amp; Spoken Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"The-4-Agreements.html\">The 4 Agreements</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">Adult &amp; Youth Workshops</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -685,7 +631,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">SAR Model of Transformation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Houses-of-Healing.html\">Houses of Healing&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Power-Source.html\">Power Source (Youth Program)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Healthy-Relationships.html\">Healthy Relationships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Self-Esteem-Build-Gang-Intervention.html\">Self Esteem Build &amp; Gang Intervention</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Creative-Writing-&amp;-Spoken-Word.html\">Creative Writing &amp; Spoken Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"The-4-Agreements.html\">The 4 Agreements</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">Adult &amp; Youth Workshops</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1110,7 +1056,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">SAR Model of Transformation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Houses-of-Healing.html\">Houses of Healing&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Power-Source.html\">Power Source (Youth Program)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Healthy-Relationships.html\">Healthy Relationships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Self-Esteem-Build-Gang-Intervention.html\">Self Esteem Build &amp; Gang Intervention</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Creative-Writing-&amp;-Spoken-Word.html\">Creative Writing &amp; Spoken Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"The-4-Agreements.html\">The 4 Agreements</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">Adult &amp; Youth Workshops</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1489,7 +1435,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">SAR Model of Transformation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Houses-of-Healing.html\">Houses of Healing&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Power-Source.html\">Power Source (Youth Program)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Healthy-Relationships.html\">Healthy Relationships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Self-Esteem-Build-Gang-Intervention.html\">Self Esteem Build &amp; Gang Intervention</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Creative-Writing-&amp;-Spoken-Word.html\">Creative Writing &amp; Spoken Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"The-4-Agreements.html\">The 4 Agreements</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">Adult &amp; Youth Workshops</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1928,7 +1874,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">SAR Model of Transformation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Houses-of-Healing.html\">Houses of Healing&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Power-Source.html\">Power Source (Youth Program)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Healthy-Relationships.html\">Healthy Relationships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Self-Esteem-Build-Gang-Intervention.html\">Self Esteem Build &amp; Gang Intervention</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Creative-Writing-&amp;-Spoken-Word.html\">Creative Writing &amp; Spoken Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"The-4-Agreements.html\">The 4 Agreements</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">Adult &amp; Youth Workshops</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2410,7 +2356,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">SAR Model of Transformation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Houses-of-Healing.html\">Houses of Healing&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Power-Source.html\">Power Source (Youth Program)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Healthy-Relationships.html\">Healthy Relationships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Self-Esteem-Build-Gang-Intervention.html\">Self Esteem Build &amp; Gang Intervention</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Creative-Writing-&amp;-Spoken-Word.html\">Creative Writing &amp; Spoken Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"The-4-Agreements.html\">The 4 Agreements</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">Adult &amp; Youth Workshops</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2511,16 +2457,6 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/rosa-parks-ms-orig-85x48.png",
                 "title": "title 3",
                 "text": "text 3",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/fb-img-1486125121997-800x600.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/fb_img-1486125121997-960x480.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/fb-img-1486125121997-85x48.png",
-                "title": "title 3",
-                "text": "text 3",
                 "active": true
               }
             ],
@@ -2569,154 +2505,6 @@
           }
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "margin-bottom": "1rem",
-              "color": "#ffffff"
-            },
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            },
-            ".heading-title": {
-              "color": "#616161"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "contentAlign": "center",
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "containerColor1": "#f8ffab",
-            "containerColor2": "#e9a165",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": 0.2
-          },
-          "title": "Program Graduates",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-1h"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showSubtitle": false,
-            "showImages": true,
-            "showName": true,
-            "showBio": true,
-            "autoplay": true,
-            "arrowColor": "#e3e3e3",
-            "timeout": 5,
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "showBullets": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x809.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#e9a165",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5,
-            "slides": [
-              {
-                "active": true,
-                "text": "<p>Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim.</p>",
-                "authorName": "John Smith",
-                "authorBio": "Program Graudate",
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face1.jpg",
-                    "class": "img-circle",
-                    "link": "FacilitatorTraining.html",
-                    "height": 160,
-                    "width": 160,
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "text": "<p>Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim.</p>",
-                "authorName": "Abanoub S.",
-                "authorBio": "Program Graudate",
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face2.jpg",
-                    "class": "img-circle",
-                    "link": "FacilitatorTraining.html",
-                    "height": 160,
-                    "width": 160,
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "text": "<p>Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim.</p>",
-                "authorName": "Suffian A.",
-                "authorBio": "Program Graudate",
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face3.jpg",
-                    "class": "img-circle",
-                    "link": "FacilitatorTraining.html",
-                    "height": 160,
-                    "width": 160,
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              }
-            ]
-          },
-          "title": "What our fantastic users say",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "_anchor": "testimonials1-17",
-          "_styles": {
-            ".card-block P": {
-              "color": "#fffffd"
-            },
-            ".card-footer > small": {
-              "color": "#fffffd"
-            },
-            ".card-footer > div": {
-              "color": "#fffffd"
-            }
-          }
-        },
-        {
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -2734,7 +2522,7 @@
             "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#fffffd",
+            "bgColor": "#ffd785",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
@@ -2853,110 +2641,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "contentAlign": "center",
-            "showArrow": false,
-            "showFeatures": true,
-            "columns": 3,
-            "showFeaturesImages": false,
-            "iconsBgColor": "#fff",
-            "showFeaturesTitles": true,
-            "showFeaturesTexts": true,
-            "showFeaturesButtons": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#5b5f6b",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": false,
-            "overlayColor": "#91683b",
-            "overlayOpacity": 0.8
-          },
-          "title": "<br><br><b>SAR Model of Transformation</b>",
-          "text": "Program Highlights",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "mobile",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title1": "Lorem ipsum&nbsp;",
-          "subtitle1": "Awesome",
-          "text1": "Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim. ",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "responsive",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title2": "Lorem ipsum&nbsp;",
-          "subtitle2": "Awesome",
-          "text2": "Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim. ",
-          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "mobirise",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title3": "Lorem ipsum&nbsp;",
-          "subtitle3": "Awesome",
-          "text3": "Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim. ",
-          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "devices",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title4": "What is Mobirise",
-          "subtitle4": "Awesome",
-          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-1j",
-          "_styles": {
-            ".mbr-iconfont": {
-              "color": "#fff",
-              "border-color": "#fff"
-            },
-            ".mbr-table-cell": {
-              "vertical-align": "bottom"
-            },
-            ".heading-text": {
-              "font-size": "46px"
-            }
-          }
-        },
-        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -3027,7 +2711,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">SAR Model of Transformation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Houses-of-Healing.html\">Houses of Healing&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Power-Source.html\">Power Source (Youth Program)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Healthy-Relationships.html\">Healthy Relationships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Self-Esteem-Build-Gang-Intervention.html\">Self Esteem Build &amp; Gang Intervention</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Creative-Writing-&amp;-Spoken-Word.html\">Creative Writing &amp; Spoken Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"The-4-Agreements.html\">The 4 Agreements</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">Adult &amp; Youth Workshops</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3105,17 +2789,262 @@
           }
         },
         {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#ffffff"
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "font-size": "46px"
+            }
           },
-          "text": "Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim.&nbsp;Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim.&nbsp;Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim.&nbsp;Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim.&nbsp;Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim.",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "contentAlign": "center",
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#19b68f",
+            "containerColor2": "#446494",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.2
+          },
+          "title": "<br><br>Trauma Informed SAR Workshops",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-1c"
+          "_name": "content5",
+          "_anchor": "content5-23"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "showHeading": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "contentAlign": "center",
+            "columns": 3,
+            "showFeaturesImages": true,
+            "iconsBgColor": "@primaryColor",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.85
+          },
+          "title": "Always on your terms",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number1": "<p>1</p>",
+          "title1": "The SAR Model of Transformation",
+          "subtitle1": "Awesome",
+          "text1": "Guides\nparticipants through a four stage process of\ntransformative healing, self-awareness, and finding\npurpose.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number2": "<p>2</p>",
+          "title2": "Houses of Healing",
+          "subtitle2": "Awesome",
+          "text2": "<br>Evidence based teachings by\n<br>Author Robin Casarjian helps participants to\ndevelop emotional intelligence.",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "setting",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number3": "<p>3</p>",
+          "title3": "The Four Agreements",
+          "subtitle3": "Awesome",
+          "text3": "A workshop designed to teach participants how to\ntransform their lives by changing their negative\nperceptions of life by practicing the Four\nAgreements.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number4": "<p>4</p>",
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features16",
+          "_anchor": "features16-1z",
+          "_styles": {
+            ".mbr-iconfont": {
+              "background": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            ".card-text": {
+              "text-align": "center",
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "showHeading": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "contentAlign": "center",
+            "columns": "2",
+            "showFeaturesImages": true,
+            "iconsBgColor": "@primaryColor",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.85
+          },
+          "title": "Always on your terms",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number1": "<p>4</p>",
+          "title1": "Relationships and Domestic Violence\n Workshop",
+          "subtitle1": "Awesome",
+          "text1": "A workshop designed to educate participants about domestic violence and building\nhealthy relationships.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number2": "<p>5</p>",
+          "title2": "Parenting and Mentoring To At-Risk Youth",
+          "subtitle2": "Awesome",
+          "text2": "A parenting mentorship guide to nurture healthy\nyouth.",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "setting",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number3": "<p>6</p>",
+          "title3": "The Four Agreements",
+          "subtitle3": "Awesome",
+          "text3": "A workshop designed to teach participants how to\ntransform their lives by changing their negative\nperceptions of life by practicing the Four\nAgreements.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number4": "<p>4</p>",
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features16",
+          "_styles": {
+            ".mbr-iconfont": {
+              "background": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            ".card-text": {
+              "text-align": "center",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "features16-25"
         },
         {
           "_params": {
@@ -3158,8 +3087,8 @@
             "showCaptions": false,
             "hideControls": false,
             "responsive": "1",
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "captionsEffect": "slide",
             "showBullets": false,
             "bgColor": "#fffffd",
@@ -3191,7 +3120,7 @@
               "vertical-align": "middle"
             },
             ".heading-title": {
-              "color": "#616161"
+              "font-size": "46px"
             }
           },
           "_params": {
@@ -3199,14 +3128,14 @@
             "showText": false,
             "showButtons": false,
             "contentAlign": "center",
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": 4,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "containerColor1": "#f8ffab",
-            "containerColor2": "#e9a165",
+            "containerColor1": "#19b68f",
+            "containerColor2": "#446494",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
@@ -3215,117 +3144,121 @@
             "overlayColor": "#000000",
             "overlayOpacity": 0.2
           },
-          "title": "Program Graduates",
+          "title": "<br><br>Youth Workshops",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-1h"
+          "_anchor": "content5-26"
         },
         {
           "_params": {
-            "showTitle": false,
-            "showSubtitle": false,
-            "showImages": true,
-            "showName": true,
-            "showBio": true,
-            "autoplay": true,
-            "arrowColor": "#e3e3e3",
-            "timeout": 5,
-            "paddingTop": "0",
+            "paddingTop": 1,
             "paddingBottom": 1,
-            "showBullets": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x809.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#e9a165",
+            "showHeading": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "contentAlign": "center",
+            "columns": "4",
+            "showFeaturesImages": true,
+            "iconsBgColor": "@primaryColor",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5,
-            "slides": [
-              {
-                "active": true,
-                "text": "<p>Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim.</p>",
-                "authorName": "John Smith",
-                "authorBio": "Program Graudate",
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face1.jpg",
-                    "class": "img-circle",
-                    "link": "WorkingAgreements.html",
-                    "height": 160,
-                    "width": 160,
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "text": "<p>Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim.</p>",
-                "authorName": "Abanoub S.",
-                "authorBio": "Program Graudate",
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face2.jpg",
-                    "class": "img-circle",
-                    "link": "WorkingAgreements.html",
-                    "height": 160,
-                    "width": 160,
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "text": "<p>Lorem ipsum dolor sit amet, pro idque splendide id. Qui te quis graeci impedit. Munere graeco virtute has ne. Sed putant tibique copiosae ad, omnes blandit accusata eam ne vim.</p>",
-                "authorName": "Suffian A.",
-                "authorBio": "Program Graudate",
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face3.jpg",
-                    "class": "img-circle",
-                    "link": "WorkingAgreements.html",
-                    "height": 160,
-                    "width": 160,
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              }
-            ]
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.85
           },
-          "title": "What our fantastic users say",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "title": "Always on your terms",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number1": "<p>1</p>",
+          "title1": "Power Source",
+          "subtitle1": "Awesome",
+          "text1": "Evidence based teachings by\nAuthor Bethany Casarjian.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number2": "<p>2</p>",
+          "title2": "Self-Esteem and Gang Prevention",
+          "subtitle2": "Awesome",
+          "text2": "Addressing trauma and criminal behavior.",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "setting",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number3": "<p>3</p>",
+          "title3": "Creative Writing",
+          "subtitle3": "Awesome",
+          "text3": "A self-reflection workshop.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number4": "<p>4</p>",
+          "title4": "Group Exercises",
+          "subtitle4": "Awesome",
+          "text4": "Designed to build character\nand help participants grow and heal emotionally.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "testimonials1",
-          "_anchor": "testimonials1-17",
+          "_name": "features16",
           "_styles": {
-            ".card-block P": {
-              "color": "#fffffd"
+            ".mbr-iconfont": {
+              "background": "@primaryColor",
+              "border-color": "@primaryColor"
             },
-            ".card-footer > small": {
-              "color": "#fffffd"
-            },
-            ".card-footer > div": {
-              "color": "#fffffd"
+            ".card-text": {
+              "text-align": "center",
+              "font-size": "18px"
             }
-          }
+          },
+          "_anchor": "features16-27"
         }
       ]
     },
@@ -3511,7 +3444,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">SAR Model of Transformation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Houses-of-Healing.html\">Houses of Healing&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Power-Source.html\">Power Source (Youth Program)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Healthy-Relationships.html\">Healthy Relationships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Self-Esteem-Build-Gang-Intervention.html\">Self Esteem Build &amp; Gang Intervention</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Creative-Writing-&amp;-Spoken-Word.html\">Creative Writing &amp; Spoken Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"The-4-Agreements.html\">The 4 Agreements</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">Adult &amp; Youth Workshops</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3994,7 +3927,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">SAR Model of Transformation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Houses-of-Healing.html\">Houses of Healing&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Power-Source.html\">Power Source (Youth Program)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Healthy-Relationships.html\">Healthy Relationships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Self-Esteem-Build-Gang-Intervention.html\">Self Esteem Build &amp; Gang Intervention</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Creative-Writing-&amp;-Spoken-Word.html\">Creative Writing &amp; Spoken Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"The-4-Agreements.html\">The 4 Agreements</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">Adult &amp; Youth Workshops</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -4476,7 +4409,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">SAR Model of Transformation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Houses-of-Healing.html\">Houses of Healing&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Power-Source.html\">Power Source (Youth Program)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Healthy-Relationships.html\">Healthy Relationships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Self-Esteem-Build-Gang-Intervention.html\">Self Esteem Build &amp; Gang Intervention</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Creative-Writing-&amp;-Spoken-Word.html\">Creative Writing &amp; Spoken Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"The-4-Agreements.html\">The 4 Agreements</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">Adult &amp; Youth Workshops</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -4958,7 +4891,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">SAR Model of Transformation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Houses-of-Healing.html\">Houses of Healing&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Power-Source.html\">Power Source (Youth Program)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Healthy-Relationships.html\">Healthy Relationships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Self-Esteem-Build-Gang-Intervention.html\">Self Esteem Build &amp; Gang Intervention</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Creative-Writing-&amp;-Spoken-Word.html\">Creative Writing &amp; Spoken Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"The-4-Agreements.html\">The 4 Agreements</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">Adult &amp; Youth Workshops</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -5356,7 +5289,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">SAR Model of Transformation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Houses-of-Healing.html\">Houses of Healing&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Power-Source.html\">Power Source (Youth Program)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Healthy-Relationships.html\">Healthy Relationships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Self-Esteem-Build-Gang-Intervention.html\">Self Esteem Build &amp; Gang Intervention</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Creative-Writing-&amp;-Spoken-Word.html\">Creative Writing &amp; Spoken Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"The-4-Agreements.html\">The 4 Agreements</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">Adult &amp; Youth Workshops</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -5600,7 +5533,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">SAR Model of Transformation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Houses-of-Healing.html\">Houses of Healing&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Power-Source.html\">Power Source (Youth Program)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Healthy-Relationships.html\">Healthy Relationships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Self-Esteem-Build-Gang-Intervention.html\">Self Esteem Build &amp; Gang Intervention</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Creative-Writing-&amp;-Spoken-Word.html\">Creative Writing &amp; Spoken Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"The-4-Agreements.html\">The 4 Agreements</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">Adult &amp; Youth Workshops</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -5795,7 +5728,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">SAR Model of Transformation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Houses-of-Healing.html\">Houses of Healing&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Power-Source.html\">Power Source (Youth Program)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Healthy-Relationships.html\">Healthy Relationships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Self-Esteem-Build-Gang-Intervention.html\">Self Esteem Build &amp; Gang Intervention</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Creative-Writing-&amp;-Spoken-Word.html\">Creative Writing &amp; Spoken Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"The-4-Agreements.html\">The 4 Agreements</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">Adult &amp; Youth Workshops</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -6004,7 +5937,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">SAR Model of Transformation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Houses-of-Healing.html\">Houses of Healing&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Power-Source.html\">Power Source (Youth Program)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Healthy-Relationships.html\">Healthy Relationships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Self-Esteem-Build-Gang-Intervention.html\">Self Esteem Build &amp; Gang Intervention</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Creative-Writing-&amp;-Spoken-Word.html\">Creative Writing &amp; Spoken Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"The-4-Agreements.html\">The 4 Agreements</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">Adult &amp; Youth Workshops</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -6103,7 +6036,7 @@
             "showMeta": false,
             "paddingTop": "7",
             "paddingBottom": 3,
-            "bgColor": "#fff"
+            "bgColor": "#ffd785"
           },
           "title": "<b>SAR Board</b>",
           "meta": "",
@@ -6184,7 +6117,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">SAR Model of Transformation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Houses-of-Healing.html\">Houses of Healing&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Power-Source.html\">Power Source (Youth Program)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Healthy-Relationships.html\">Healthy Relationships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Self-Esteem-Build-Gang-Intervention.html\">Self Esteem Build &amp; Gang Intervention</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Creative-Writing-&amp;-Spoken-Word.html\">Creative Writing &amp; Spoken Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"The-4-Agreements.html\">The 4 Agreements</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES &amp; ADVOCACY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Programs</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Facilitator-Training.html\">Facilitator &amp;<br>Leadership Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAR-Model-of-Transformation.html\">Adult &amp; Youth Workshops</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Events Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"our-story.html\">Our Story &amp; Philosophy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Our Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"In-the-News.html\" aria-expanded=\"false\">IN THE NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://docs.google.com/forms/d/1vhqJ1rdzlPw1RkShBvDBcbkCllZTtj7gNv3Qxba7cLg/edit\" target=\"_blank\">gET INVOLVED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-warning\" href=\"https://www.paypal.com/us/fundraiser/hub\" target=\"_blank\">DONATE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -6261,7 +6194,7 @@
           },
           "title2": "<b>Board Member<br></b>Eryka Cohen<br><br>",
           "subtitle2": "Awesome",
-          "text2": "Bio Coming Soon.<br>",
+          "text2": "Eryka is passionate about helping people in and out of her community. Specifically, at risk youth\nand those in the forensic population. She is a firm believer in preventive rather than reactive\n<br>intervention when deterring the youth from a delinquent path. Furthermore, she believes people\ncan change with proper education, guidance and will to become productive members in our\ncommunities. She does not believe people are defined by their crimes, there is always a root cause\nwhich can be addressed and fixed if the individual is willing to do the work.\n<br>She has been a member of the Self Awareness and Recovery (SAR) team since 2017, she is both a\nfacilitator and educator for the SAR. &nbsp;Her educational background consists of a B.A in Psychology\nwith a Minor in Criminal Justice Administration. Currently, she is a second year student persuing a master degree in clinical counseling program. Her goal is to earn her degree, get licensed and use her knowledge to further help those in need.<br>",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Contact</a>",
           "_tags": [
             "Theme"
@@ -6372,7 +6305,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sar-circle-logo-133x100.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-1920x1080.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -6385,7 +6318,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sar-circle-logo-133x100.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-1920x1080.jpg",
               "link": "",
               "alt": "",
               "title": ""
