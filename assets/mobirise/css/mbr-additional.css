@@ -591,6 +591,15 @@ a:hover {
 #content3-n .mbr-section-subtitle {
   text-align: center;
 }
+#content3-n B {
+  font-size: 80px;
+}
+#content3-n P {
+  font-size: 24px;
+}
+#content8-m P {
+  font-size: 21px;
+}
 #footer2-x .footer-list {
   color: #74a3c7;
 }
@@ -699,6 +708,20 @@ a:hover {
 #footer2-x .btn-social:hover {
   background: #74a3c7;
   color: #fff;
+}
+#content3-28 .mbr-section-title,
+#content3-28 .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-28 B {
+  font-size: 48px;
+}
+#content2-29 DIV {
+  text-align: center;
+  color: #fffffd;
+}
+#content2-29 SPAN {
+  color: #fffcf6;
 }
 #header1-1j .mbr-iconfont {
   color: #fff;
@@ -886,10 +909,6 @@ a:hover {
 #content5-1l .mbr-section-subtitle {
   margin-bottom: 1rem;
   color: #ffffff;
-}
-#content5-1l .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
 }
 #content5-1l .mbr-table-cell {
   vertical-align: middle;
@@ -1177,10 +1196,6 @@ a:hover {
   margin-bottom: 1rem;
   color: #ffffff;
 }
-#content5-23 .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
 #content5-23 .mbr-table-cell {
   vertical-align: middle;
 }
@@ -1199,10 +1214,6 @@ a:hover {
 #content5-26 .mbr-section-subtitle {
   margin-bottom: 1rem;
   color: #ffffff;
-}
-#content5-26 .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
 }
 #content5-26 .mbr-table-cell {
   vertical-align: middle;
