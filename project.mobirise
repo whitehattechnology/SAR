@@ -27,7 +27,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 82,
+    "uniqCompNum": 85,
     "versionPublish": "4.10.3",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -233,7 +233,7 @@
             }
           },
           "title": "Download for Windows",
-          "text": "Our mission is to reduce the recidivism rates of incarceration. In helping adult and youth offenders heal from emotional wounds of negative experiences, offenders will learn to uproot the causal factors that fuel their destructive lifestyles. Holistically speaking, we are branching out our endeavors to help others in our local communities as well, i.e, high/middle schools and community centers.",
+          "text": "The Self-Awareness &amp; Recovery (SAR)\n<br>program is designed to reduce recidivism\n<br>and incarceration rates. The goal is to help\n<br>adult and youth offenders heal from the\n<br>emotional wounds they experienced\n<br>during their formative years. Through self-\n<br>awareness we seek to explore the causative\n<br>factors that led to destructive life styles.\n<br>Through recovery we aim to teach healthy\n<br>coping skills for the preservation of\n<br>freedom and prosperity for those we serve.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_tags": [
             "Theme"
@@ -242,7 +242,8 @@
           "_anchor": "content8-m",
           "_styles": {
             "P": {
-              "font-size": "21px"
+              "font-size": "21px",
+              "color": "#fffcf6"
             }
           }
         },
@@ -301,8 +302,9 @@
         {
           "_params": {
             "showTitle": true,
-            "collapseAll": false,
+            "showText": false,
             "tabs": "3",
+            "collapseAll": false,
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": true,
@@ -312,30 +314,31 @@
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
             },
             "overlay": true,
-            "overlayColor": "#ffffff",
+            "overlayColor": "#fffffd",
             "overlayOpacity": "0.7"
           },
-          "title": "<b>Our Goals</b>",
-          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1-26-init\" data-core=\"\" href=\"#collapseOneaccordion1-26\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Programs</a>",
-          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-26-init\" data-core=\"\" href=\"#collapseTwoaccordion1-26\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Information</a>",
-          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-26-init\" data-core=\"\" href=\"#collapseThreeaccordion1-26\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Impact</a>",
+          "title": "Our Goals\r",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut beatae nostrum quis ab, fuga ducimus, eligendi facere atque provident tempore vitae, cupiditate fugit explicabo. Nostrum quidem itaque blanditiis maxime, perferendis numquam ab a exercitationem impedit repellat, voluptate sunt! Veritatis, nam.",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseOnetoggle1-2c\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Programs</a>",
+          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseTwotoggle1-2c\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Information Services</a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseThreetoggle1-2c\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Impact</a>",
           "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
           "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
           "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
-          "text1": "<p><span style=\"font-size: 1rem;\">➢ Emotional support workshops for ex-</span><span style=\"font-size: 1rem;\">felons and their families.</span><br></p><p><span style=\"font-size: 1rem;\">➢ Relapse prevention plans</span></p><p><span style=\"font-size: 1rem;\">➢ Youth intervention outreach programs\n&nbsp;</span><span style=\"font-size: 1rem;\">for At-Risk Youth (juvenile facilities,&nbsp;</span><span style=\"font-size: 1rem;\">schools, etc.)</span></p><p><span style=\"font-size: 1rem;\"><br></span></p><p><br></p>",
-          "text2": "<p><span style=\"font-size: 1rem;\">➢ Publish quarterly newsletters.</span><br></p><p><span style=\"font-size: 1rem;\">➢ SAR approved literature, curriculums,  DVD’s and materials (through correctional agencies across the country).</span></p><p><span style=\"font-size: 1rem;\">➢ Information on transitional housing, re-entry and employment opportunities\n</span></p><p><span style=\"font-size: 1rem;\"><br></span></p>",
-          "text3": "<p>➢ Help to reduce the recidivism rates of&nbsp;<span style=\"font-size: 1rem;\">incarceration by working with parole and&nbsp;</span><span style=\"font-size: 1rem;\">probation departments.</span></p><p><span style=\"font-size: 1rem;\">➢ SAR community centers for people  who want to change their lives.\r</span></p><p><span style=\"font-size: 1rem;\"><br></span></p>",
+          "text1": "<p>➢ Emotional support workshops for ex-felons and their families.\n</p><p>➢ Relapse prevention plans.</p><p>➢ Youth intervention outreach programs  for At-Risk Youth (juvenile facilities, schools, etc.)</p>",
+          "text2": "<p>➢ Publish quarterly newsletters.</p><p>➢ SAR approved literature, curriculums,\n&nbsp;<span style=\"font-size: 1rem;\">DVD’s and materials (through correctional&nbsp;</span><span style=\"font-size: 1rem;\">agencies across the country).</span></p><p><span style=\"font-size: 1rem;\">➢ Information on transitional housing, re-\r</span><span style=\"font-size: 1rem;\">entry and employment opportunities.</span></p><p><br></p>",
+          "text3": "<p>➢ SAR community centers for people\n&nbsp;<span style=\"font-size: 1rem;\">who want to change their lives.</span></p><p><span style=\"font-size: 1rem;\">➢ Help to reduce the recidivism rates of\n&nbsp;</span><span style=\"font-size: 1rem;\">incarceration by working with parole and&nbsp;</span><span style=\"font-size: 1rem;\">probation departments.</span></p>",
           "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
           "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
           "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "accordion1",
-          "_anchor": "accordion1-27"
+          "_name": "toggle1",
+          "_anchor": "toggle1-2c"
         }
       ]
     },
