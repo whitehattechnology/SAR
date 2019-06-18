@@ -887,6 +887,10 @@ a:hover {
   margin-bottom: 1rem;
   color: #ffffff;
 }
+#content5-1l .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
 #content5-1l .mbr-table-cell {
   vertical-align: middle;
 }
@@ -1173,6 +1177,10 @@ a:hover {
   margin-bottom: 1rem;
   color: #ffffff;
 }
+#content5-23 .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
 #content5-23 .mbr-table-cell {
   vertical-align: middle;
 }
@@ -1191,6 +1199,10 @@ a:hover {
 #content5-26 .mbr-section-subtitle {
   margin-bottom: 1rem;
   color: #ffffff;
+}
+#content5-26 .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
 }
 #content5-26 .mbr-table-cell {
   vertical-align: middle;
