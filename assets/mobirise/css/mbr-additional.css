@@ -805,10 +805,6 @@ a:hover {
   margin-bottom: 1rem;
   color: #ffffff;
 }
-#content5-1l .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
 #content5-1l .mbr-table-cell {
   vertical-align: middle;
 }
@@ -972,6 +968,10 @@ a:hover {
 #menu1-8 .link[aria-expanded="true"],
 #menu1-8 .dropdown-item[aria-expanded="true"] {
   color: #5aac98!important;
+}
+#content3-2f .mbr-section-title,
+#content3-2f .mbr-section-subtitle {
+  text-align: center;
 }
 #footer2-x .footer-list {
   color: #74a3c7;
@@ -1433,23 +1433,11 @@ a:hover {
 #menu1-8 .dropdown-item[aria-expanded="true"] {
   color: #5aac98!important;
 }
-#features7-i .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
 #features7-i .heading-title {
   text-align: center;
 }
-#features7-j .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
 #features7-j .heading-title {
   text-align: center;
-}
-#features7-k .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
 }
 #features7-k .heading-title {
   text-align: center;
