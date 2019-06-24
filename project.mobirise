@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SAR (go live)",
-    "currentPage": "index.html",
+    "currentPage": "SAR-Model-of-Transformation.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -1989,7 +1989,7 @@
             "paddingBottom": 3,
             "bgColor": "#fff"
           },
-          "title": "<br>Youth Intervention",
+          "title": "<b>Youth Pop Ups</b>",
           "meta": "<br>Evidence based teachings by Author Bethany Casarjian.",
           "_tags": [
             "Theme"
