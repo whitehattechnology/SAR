@@ -1003,6 +1003,14 @@ a:hover {
   text-align: center;
   font-size: 18px;
 }
+#features16-2h .mbr-iconfont {
+  background: #5aac98;
+  border-color: #5aac98;
+}
+#features16-2h .card-text {
+  text-align: center;
+  font-size: 18px;
+}
 #content5-26 .mbr-section-title,
 #content5-26 .mbr-section-subtitle {
   margin-bottom: 1rem;
@@ -1016,7 +1024,7 @@ a:hover {
   vertical-align: middle;
 }
 #content5-26 .heading-title {
-  font-size: 48px;
+  font-size: 60px;
 }
 #content3-2b .mbr-section-title,
 #content3-2b .mbr-section-subtitle {
