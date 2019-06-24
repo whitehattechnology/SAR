@@ -1658,69 +1658,6 @@
           "_anchor": "menu1-8"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgColor": "#fff"
-          },
-          "title": "Youth Intervention",
-          "meta": "<br>Evidence based teachings by Author Bethany Casarjian.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content3",
-          "_anchor": "content3-2f"
-        },
-        {
-          "_params": {
-            "autoplay": true,
-            "animType": "fade",
-            "theme": "absent",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/fb-img-1534114550684-800x600.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/fb_img-1534114550684-960x944.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/fb-img-1534114550684-85x48.png",
-                "title": "title 3",
-                "text": "text 3",
-                "active": true
-              }
-            ],
-            "fullScreen": true,
-            "showCaptions": false,
-            "hideControls": false,
-            "responsive": "1",
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "captionsEffect": "slide",
-            "showBullets": false,
-            "bgColor": "#fffffd",
-            "timeout": 2,
-            "duration": 2,
-            "customSize": false,
-            "customWidth": "1600",
-            "customHeight": "1080",
-            "size": "800x600",
-            "width": "800",
-            "height": "600"
-          },
-          "articleLayout": false,
-          "alias": "wowslider",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "wowslider",
-          "_anchor": "wowslider-2g"
-        },
-        {
           "_params": {
             "showIcons": true,
             "rows": "3",
@@ -2039,6 +1976,69 @@
           ],
           "_name": "wowslider",
           "_anchor": "wowslider-1d"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgColor": "#fff"
+          },
+          "title": "<br>Youth Intervention",
+          "meta": "<br>Evidence based teachings by Author Bethany Casarjian.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-2f"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "animType": "fade",
+            "theme": "absent",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/fb-img-1534114550684-800x600.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/fb_img-1534114550684-960x944.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/fb-img-1534114550684-85x48.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": true
+              }
+            ],
+            "fullScreen": true,
+            "showCaptions": false,
+            "hideControls": false,
+            "responsive": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "captionsEffect": "slide",
+            "showBullets": false,
+            "bgColor": "#fffffd",
+            "timeout": 2,
+            "duration": 2,
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "800x600",
+            "width": "800",
+            "height": "600"
+          },
+          "articleLayout": false,
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_anchor": "wowslider-2g"
         }
       ]
     },

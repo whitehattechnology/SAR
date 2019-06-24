@@ -969,10 +969,6 @@ a:hover {
 #menu1-8 .dropdown-item[aria-expanded="true"] {
   color: #5aac98!important;
 }
-#content3-2f .mbr-section-title,
-#content3-2f .mbr-section-subtitle {
-  text-align: center;
-}
 #footer2-x .footer-list {
   color: #74a3c7;
 }
@@ -1024,6 +1020,10 @@ a:hover {
 }
 #content3-2b .mbr-section-title,
 #content3-2b .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-2f .mbr-section-title,
+#content3-2f .mbr-section-subtitle {
   text-align: center;
 }
 #menu1-8 .hide-buttons .nav-btn {
