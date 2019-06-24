@@ -971,127 +971,6 @@
           ],
           "_name": "content1",
           "_anchor": "content1-1o"
-        },
-        {
-          "_inherit": "gallery1",
-          "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": 0,
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "filterBgColor": false,
-            "bgColor": "#fff",
-            "showText": true,
-            "filter": true,
-            "images": [
-              {
-                "tags": "2018",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/at-yolo-continuation-2018-1080x809.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/at-yolo-continuation-2018-1080x809-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "2018 At YOLO Continuation",
-                "active": false
-              },
-              {
-                "tags": "2017",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "image": "@PROJECT_PATH@/assets/images/california-medical-facility-2017-sar-facilitator-training-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/california-medical-facility-2017-sar-facilitator-training-2000x1500-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "caption": "2017 California Medical Facility, SAR Facilitator Training",
-                "active": false
-              },
-              {
-                "tags": "2016",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/resized-20170613-93747-1600x1200.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/resized-20170613-93747-1600x1200-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "2016 SAR Discussion Group",
-                "active": false
-              },
-              {
-                "tags": "2016",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/20170302-203452-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20170302-203452-2000x1500-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "2016 #SchoolsNotPrisons Panel",
-                "active": false
-              },
-              {
-                "tags": "2017",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/june-2017-burbank-high-sar-graduation-1600x1200.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/june-2017-burbank-high-sar-graduation-1600x1200-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "2017 Burbank High SAR Graduation",
-                "active": false
-              },
-              {
-                "tags": "2018",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/20170501-121230-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20170501-121230-2000x1500-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "2018 Activist Rally",
-                "active": false
-              },
-              {
-                "tags": "2016",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dec.-2016-sar-facilitator-graduation-2000x1471.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dec.-2016-sar-facilitator-graduation-2000x1471-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "2016 SAR Facilitator Graduation",
-                "active": false
-              },
-              {
-                "tags": "2017",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/group-meeting-with-daniel-2000x747.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/group-meeting-with-daniel-2000x747-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "2017 Group Meeting with SAR",
-                "active": true
-              }
-            ]
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "articleLayout": false,
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
-          "allItem": "All",
-          "_name": "gallery3",
-          "_anchor": "gallery3-1s"
         }
       ]
     },
@@ -1374,28 +1253,28 @@
             "theme": "absent",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/daniel-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/daniel-2-800x600.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@PROJECT_PATH@/assets/images/daniel-2000x1296.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/daniel-85x48.png",
-                "title": "title 3",
-                "text": "text 3",
+                "title": "",
+                "text": "",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-18272-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-18274-800x600.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@PROJECT_PATH@/assets/images/img-18272-960x1280.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/img-18272-85x48.png",
-                "title": "title 3",
-                "text": "text 3",
+                "title": "",
+                "text": "",
                 "active": true
               }
             ],
             "fullScreen": true,
-            "showCaptions": false,
+            "showCaptions": true,
             "hideControls": false,
             "responsive": "1",
             "paddingTop": "1",
@@ -1405,7 +1284,7 @@
             "bgColor": "#fffffd",
             "timeout": 2,
             "duration": 2,
-            "customSize": false,
+            "customSize": true,
             "customWidth": "1600",
             "customHeight": "1080",
             "size": "800x600",
@@ -1751,7 +1630,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "contentAlign": "center",
             "paddingTop": 4,
@@ -1771,7 +1650,7 @@
             "overlayOpacity": 0.2
           },
           "title": "<br><br>Trauma Informed SAR Workshops",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "text": "An overview of the SAR workshops by Don Miguel Ruiz&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
           "_tags": [
             "Theme"
@@ -1992,50 +1871,6 @@
             }
           },
           "_anchor": "features16-2h"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "margin-bottom": "1rem",
-              "color": "#ffffff"
-            },
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            },
-            ".heading-title": {
-              "font-size": "60px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "contentAlign": "center",
-            "paddingTop": "0",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "containerColor1": "#19b68f",
-            "containerColor2": "#446494",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": 0.2
-          },
-          "title": "<br><br>Youth Workshops",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-26"
         },
         {
           "_styles": {

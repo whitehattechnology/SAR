@@ -805,6 +805,10 @@ a:hover {
   margin-bottom: 1rem;
   color: #ffffff;
 }
+#content5-1l .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
 #content5-1l .mbr-table-cell {
   vertical-align: middle;
 }
@@ -1010,21 +1014,6 @@ a:hover {
 #features16-2h .card-text {
   text-align: center;
   font-size: 18px;
-}
-#content5-26 .mbr-section-title,
-#content5-26 .mbr-section-subtitle {
-  margin-bottom: 1rem;
-  color: #ffffff;
-}
-#content5-26 .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
-#content5-26 .mbr-table-cell {
-  vertical-align: middle;
-}
-#content5-26 .heading-title {
-  font-size: 60px;
 }
 #content3-2b .mbr-section-title,
 #content3-2b .mbr-section-subtitle {
