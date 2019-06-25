@@ -825,6 +825,12 @@ a:hover {
 #header1-1j .heading-text {
   font-size: 46px;
 }
+#header1-1j .card-text {
+  font-size: 18px;
+}
+#header1-1j .card-title B {
+  font-size: 24px;
+}
 #menu1-8 .hide-buttons .nav-btn {
   display: none !important;
 }
