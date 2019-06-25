@@ -702,6 +702,9 @@ a:hover {
 #msg-box1-10 H1 {
   color: #333333;
 }
+#msg-box1-10 LI {
+  font-size: 20px;
+}
 #footer2-x .footer-list {
   color: #74a3c7;
 }

@@ -596,6 +596,9 @@
           "_styles": {
             "H1": {
               "color": "#333333"
+            },
+            "LI": {
+              "font-size": "20px"
             }
           },
           "_params": {
