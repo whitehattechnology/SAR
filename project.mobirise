@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SAR (go live)",
-    "currentPage": "SAR-Model-of-Transformation.html",
+    "currentPage": "Facilitator-Training.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -1270,6 +1270,16 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/img-18272-85x48.png",
                 "title": "",
                 "text": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2018-youth-mentoring-at-burbank-highschool-800x600.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/2018-youth-mentoring-at-burbank-highschool-960x944.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/2018-youth-mentoring-at-burbank-highschool-85x48.png",
+                "title": "",
+                "text": "",
                 "active": true
               }
             ],
@@ -1988,6 +1998,16 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/rosa-parks-ms-orig-85x48.png",
                 "title": "title 3",
                 "text": "text 3",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/received-400890896981706-800x600.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/received-400890896981706-960x720.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/received-400890896981706-85x48.png",
+                "title": "title 3",
+                "text": "text 3",
                 "active": true
               }
             ],
@@ -2044,11 +2064,31 @@
             "theme": "absent",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/fb-img-1534114550684-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20190301-175026-800x600.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/fb_img-1534114550684-960x944.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/fb-img-1534114550684-85x48.png",
+                "src": "@PROJECT_PATH@/assets/images/20190301-175026-2000x1500.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/20190301-175026-85x48.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190531-173559-800x600.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/20190531-173559-2000x1125.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/20190531-173559-85x48.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190531-171410-800x600.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/20190531-171410-2000x1125.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/20190531-171410-85x48.png",
                 "title": "title 3",
                 "text": "text 3",
                 "active": true
