@@ -27,7 +27,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 93,
+    "uniqCompNum": 96,
     "versionPublish": "4.10.3",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -979,6 +979,71 @@
           ],
           "_name": "content1",
           "_anchor": "content1-1o"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "font-size": "48px"
+            },
+            ".heading-title DIV": {
+              "font-size": "48px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "center",
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#19b68f",
+            "containerColor2": "#446494",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.2
+          },
+          "title": "Sacramento Youth Pop Ups\r<div>Featuring Self Awareness and Recovery\r</div>",
+          "text": "June 2019",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2m"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p></p><p><br></p><br><p>On weekends and during school holidays, many Sacramento teens cannot find safe and\naffordable places that offer positive activities and involve supportive adults in their very\nown neighborhoods. They resort to hanging out at friends houses playing video games all\nday or at the mall where recently there were reports of hundreds of teens engaging in\nunsafe behaviors.\n<br></p><br><p>In response, the Sierra Health Foundation contributed $30,000 to various non-profit\ngroups to offer “Youth Pop-Ups” around the city throughout the weekend of January 4-6.\nActivities offered included roller skating, basketball, a mobile barber shop/beautician, DJs,\na photo booth, movies, ping pong, and a talent show. Over 1,000 youth participated in the\nactivities.\n<br></p><br><p>Using this momentum and building on the rich history of urban “midnight basketball” and\nthe City’s current neighborhood-based “Hot Spots,” the City stepped in to continue the free\nweekend community-based Pop-Ups across neighborhoods. The sites are distributed\ngeographically and, to the extent possible, close to public transit to ensure that as many\nyouth as possible, especially those in the most underserved communities, have access to\npositive alternatives. At least 10 events occur across the City every weekend. The Pop-Ups\nare hosted by community-based non-profit organizations will also maintain high-quality\nstandards around safety and youth development principle overall. Since the launch of the\ninitiative in February, 136 events were offered through the end of May. Between February\nand March, 5,733 individuals participated in Pop Up events.\n</p><p><br>Self Awareness and Recovery (SAR) is one of the 21 community-based organizations that\noperates the weekend Pop Up events. SAR aims to reduce recidivism rates and\nincarceration in the Sacramento region by creating space for at-risk youth and adults and\npeople re-entering society from incarceration to begin to heal from trauma and find\ntransformation in their lives.&nbsp;\n</p><p><br>On May 31, SAR hosted a Pop Up event at Burbank High School, one of the sites where they\noffer services. About 80 youth showed up and enjoyed an evening full of fun. Sixty percent\n(60%) of the participants are part of a core group of youth who have consistently attended\nSAR’s Pop Up events.\n</p><p><br>The evening started with a short presentation explaining what Pop Ups are all about and\nencouraging participants to have a safe summer. Throughout the event, youth participated\nin a karaoke contest, enjoyed a professional DJ’s music, and won various gift certificates\nthrough a raffle. Participants wrapped up the event with a delicious slice of pizza.\n</p><p><br>Daniel Silva, SAR’s director, shares that young people call him constantly asking when the\nnext Pop Up event will be or reminding him to call them with an invitation to the next\nevent. Silva believes that these events build a strong sense of community through the\nsimple acts of eating, dancing, and enjoying the night’s activities together. He brings in\nolder youth who grew up in the same neighborhoods or circumstances as Pop Up\nparticipants and who have graduated from college to share their own stories providing\ninspiration and hope to the youth. Finally, Silva believes that the Pop Ups have contributed\nto a reduction in violence in the community. “Showing kids that we love them and care\nabout them through these Pop Up events will help lead them on a path towards peace,” he\nsaid. Silva wants to see the Pop Up initiative continue long into the future. “Pop Ups are a\nplace where youth can learn to be better humans. Love and hope are powerful things.”</p><br><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2n",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     },

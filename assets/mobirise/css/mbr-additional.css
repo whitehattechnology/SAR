@@ -821,6 +821,27 @@ a:hover {
 #content5-1l .heading-title {
   font-size: 60px;
 }
+#content5-2m .mbr-section-title,
+#content5-2m .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+#content5-2m .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#content5-2m .mbr-table-cell {
+  vertical-align: middle;
+}
+#content5-2m .heading-title {
+  font-size: 48px;
+}
+#content5-2m .heading-title DIV {
+  font-size: 48px;
+}
+#content1-2n P {
+  text-align: left;
+}
 #header1-1j .mbr-iconfont {
   color: #fff;
   border-color: #fff;
