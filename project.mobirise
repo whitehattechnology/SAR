@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SAR (go live)",
-    "currentPage": "Facilitator-Training.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -334,7 +334,7 @@
             "overlayOpacity": "0.7"
           },
           "title": "Our Goals\n",
-          "text": "The best service any organization can provide is the people that they serve is the services that people can utilize in their daily lives. It is important that the workshops cater to those in need, as the world we live in keeps changing due to technology and society.",
+          "text": "The best any organization can provide to the people that they support those services that people can utilize in their daily lives. It is important that the workshops cater to those in need, as the world we live in keeps changing.",
           "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseOnetoggle1-2c\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><b><span class=\"sign\"></span>Programs</b></a>",
           "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseTwotoggle1-2c\" aria-expanded=\"true\" aria-controls=\"collapseTwo\"><b>Information Services</b></a>",
           "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseThreetoggle1-2c\" aria-expanded=\"true\" aria-controls=\"collapseThree\"><b>Impact</b></a>",
