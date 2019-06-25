@@ -685,6 +685,9 @@ a:hover {
 #menu1-8 .dropdown-item[aria-expanded="true"] {
   color: #5aac98!important;
 }
+#header7-9 P {
+  font-size: 22px;
+}
 #content3-z .mbr-section-title,
 #content3-z .mbr-section-subtitle {
   text-align: center;

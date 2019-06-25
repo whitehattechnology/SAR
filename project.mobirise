@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SAR (go live)",
-    "currentPage": "Facilitator-Training.html",
+    "currentPage": "our-story.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -542,7 +542,12 @@
             "Theme"
           ],
           "_name": "header7",
-          "_anchor": "header7-9"
+          "_anchor": "header7-9",
+          "_styles": {
+            "P": {
+              "font-size": "22px"
+            }
+          }
         },
         {
           "_styles": {
@@ -1936,7 +1941,7 @@
             "slides": [
               {
                 "active": true,
-                "text": "<p>“Powersource is a priceless gift for all people and adults that care about the. It is clear conscience and fully relav\n<span style=\"background-color: transparent; font-size: 1rem;\">ant and accessible. I have been incarcerated for 14 years and never have I came across a jewel such as powersource.\n</span><span style=\"background-color: transparent; font-size: 1rem;\">”</span></p>",
+                "text": "<p>“Powersource is a priceless gift for all people and adults that care about the. It is clear conscience and fully relav<span style=\"background-color: transparent; font-size: 1rem;\">ant and accessible. I have been incarcerated for 14 years and never have I came across a jewel such as powersource.\n</span><span style=\"background-color: transparent; font-size: 1rem;\">”</span></p>",
                 "authorName": "Javier B",
                 "authorBio": "Youthful Offender (Valley State Prison)",
                 "media": {
