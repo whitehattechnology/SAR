@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SAR (go live)",
-    "currentPage": "In-the-News.html",
+    "currentPage": "Facilitator-Training.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -1069,7 +1069,7 @@
             "showFeaturesTexts": true,
             "showFeaturesButtons": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20190624-91837-2000x1210.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/20190624-091837-1-2000x1210.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#5b5f6b",
