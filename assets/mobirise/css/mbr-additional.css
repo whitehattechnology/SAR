@@ -834,10 +834,13 @@ a:hover {
   vertical-align: middle;
 }
 #content5-2m .heading-title {
-  font-size: 48px;
+  font-size: 36px;
 }
 #content5-2m .heading-title DIV {
-  font-size: 48px;
+  font-size: 32px;
+}
+#content5-2m .heading-title SPAN {
+  font-size: 36px;
 }
 #content1-2n P {
   text-align: left;
@@ -1463,11 +1466,23 @@ a:hover {
 #menu1-8 .dropdown-item[aria-expanded="true"] {
   color: #5aac98!important;
 }
+#features7-i .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
 #features7-i .heading-title {
   text-align: center;
 }
+#features7-j .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
 #features7-j .heading-title {
   text-align: center;
+}
+#features7-k .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
 }
 #features7-k .heading-title {
   text-align: center;
