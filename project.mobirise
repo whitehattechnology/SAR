@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SAR (go live)",
-    "currentPage": "donate-to-sar.html",
+    "currentPage": "Facilitator-Training.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -334,16 +334,16 @@
             "overlayOpacity": "0.7"
           },
           "title": "Our Goals\n",
-          "text": "The best any organization can provide to the people that they support those services that people can utilize in their daily lives. It is important that the workshops cater to those in need, as the world we live in keeps changing.",
+          "text": "The best any organization can provide to the people that they serve are services that can be utilized daily. It is important that the workshops cater to those in need, as the imperfect world we live in keeps changing.",
           "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseOnetoggle1-2c\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><b><span class=\"sign\"></span>Programs</b></a>",
           "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseTwotoggle1-2c\" aria-expanded=\"true\" aria-controls=\"collapseTwo\"><b>Information Services</b></a>",
           "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseThreetoggle1-2c\" aria-expanded=\"true\" aria-controls=\"collapseThree\"><b>Impact</b></a>",
           "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
           "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
           "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
-          "text1": "<p>➢ Emotional support workshops for ex-felons and their families.\n</p><p>➢ Relapse prevention plans.</p><p>➢ Youth intervention outreach programs  for At-Risk Youth (juvenile facilities, schools, etc.)</p>",
+          "text1": "<p>➢ Emotional support workshops for ex-felons and their families.\n</p><p>➢ Youth Violence Intervation plans.</p><p>➢ Youth intervention outreach programs  for At-Risk Youth (juvenile facilities, schools, etc.)</p>",
           "text2": "<p>➢ Publish quarterly newsletters.</p><p>➢ SAR approved literature, curriculums,\n&nbsp;<span style=\"font-size: 1rem;\">DVD’s and materials (through correctional&nbsp;</span><span style=\"font-size: 1rem;\">agencies across the country).</span></p><p><span style=\"font-size: 1rem;\">➢ Information on transitional housing, re-\r</span><span style=\"font-size: 1rem;\">entry and employment opportunities.</span></p><p><br></p>",
-          "text3": "<p>➢ SAR community centers for people\n&nbsp;<span style=\"font-size: 1rem;\">who want to change their lives.</span></p><p><span style=\"font-size: 1rem;\">➢ Helps to reduce the recidivism rates of incarceration by working with at risk youth and community based organizations; that are working on changing the narrative of each individual affected by the war on drugs.</span></p><p><span style=\"font-size: 1rem;\">➢Our goal is to reduce recidivism rates of incarceration via trauma informed healing based workshops that can transform people lives with tools that lead to productive mentors in the community.</span></p>",
+          "text3": "<p>➢ SAR community healing circles for people\n&nbsp;<span style=\"font-size: 1rem;\">who want to change their lives.</span></p><p><span style=\"font-size: 1rem;\">➢ Helps to reduce the recidivism rates of incarceration by working with at risk youth and community based organizations; that are working on changing the narrative of individuals affected by the war on drugs.</span></p><p><span style=\"font-size: 1rem;\">➢Our goal is to reduce recidivism rates of incarceration via trauma informed healing based workshops that can transform people lives with tools that lead to productive mentors in the community.</span></p>",
           "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
           "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
           "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
@@ -1072,7 +1072,7 @@
             "showFeaturesTexts": true,
             "showFeaturesButtons": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20190624-091837-1-2000x1210.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-1-1099x720.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#5b5f6b",
@@ -3429,7 +3429,7 @@
             "showIcons": true,
             "iconsBorder": true,
             "iconsColor": "#434343",
-            "iconsNumber": "three",
+            "iconsNumber": "two",
             "imageSize": 50,
             "containerColor1": "#e9a165",
             "containerColor2": "#ffd785",
@@ -3449,8 +3449,8 @@
             "overlayOpacity": 0.8
           },
           "title": "Donate Today!",
-          "text1": "By Mail&nbsp;<br><br>P.O. Box 675\n<br>West Sacramento, CA 95691&nbsp;<br>",
-          "text2": "By Phone<br><br>(916) 490-6398<br>",
+          "text1": "Attn: SAR<br>4625 44th St Room # 22\n<br>Sacramento CA 85820<br>",
+          "text2": "By Phone<br>(916) 490-6398<br>",
           "text3": "Visit our office<br><br>​​1414 K Street, Suite 150\n<br>Sacramento, CA 95814<br><br>",
           "media": {
             "image": {
@@ -3514,8 +3514,8 @@
         {
           "_params": {
             "googleMap": {
-              "address": "1414 K Street, Suite 150 \nSacramento, CA 95814",
-              "placeId": "EikxNTAsIDE0MTQgSyBTdCwgU2FjcmFtZW50bywgQ0EgOTU4MTQsIFVTQSIfGh0KFgoUChIJPR2119nQmoARJj66EouZyVQSAzE1MA",
+              "address": "4625 44th St Room # 22 \nSacramento CA 85820",
+              "placeId": "EisyMiwgNDYyNSA0NHRoIFN0LCBTYWNyYW1lbnRvLCBDQSA5NTgyMCwgVVNBIh4aHAoWChQKEgmn1FFODtCagBE1hyT-UuNGzxICMjI",
               "state": "ok",
               "stateDetails": ""
             }
