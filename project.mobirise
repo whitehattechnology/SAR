@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SAR (go live)",
-    "currentPage": "Facilitator-Training.html",
+    "currentPage": "Past-Events.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -1362,6 +1362,16 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/2018-youth-mentoring-at-burbank-highschool-85x48.png",
                 "title": "",
                 "text": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/california-medical-facility-2017-sar-facilitator-training-800x600.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/california-medical-facility-2017-sar-facilitator-training-2000x1500.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/california-medical-facility-2017-sar-facilitator-training-85x48.png",
+                "title": "",
+                "text": "",
                 "active": true
               }
             ],
@@ -1410,7 +1420,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "text": "<b>The S. A.R program’s goals<br></b>\n<br>⦁\tExpansion to other cities\n<br>⦁\tRural communities\n<br>⦁\tEducating at risk-youth to stay in schools and out of prisons\n<br>⦁\tFind root causes of delinquent behavior\n<br>⦁\tShape our youth to be productive members of society.\n<br>⦁\tPreventing program not reactive program for youth\n<br>⦁\tCommunity awareness through life experiences of people who lived the destructive life&nbsp;<br>",
+          "text": "<b>The S. A.R program’s goals<br></b>\n<br>⦁\tExpansion to other cities\n<br>⦁\tRural communities\n<br>⦁\tEducating at risk-youth to stay in schools and out of prisons\n<br>⦁\tFind root causes of delinquent behavior\n<br>⦁\tShape our youth to be productive members of society<br>⦁\tPreventing program not reactive program for youth\n<br>⦁\tCommunity awareness through life experiences of people who lived the destructive life&nbsp;<br>",
           "_tags": [
             "Theme"
           ],
@@ -1794,7 +1804,7 @@
           "number1": "<p>1</p>",
           "title1": "The SAR Model of Transformation",
           "subtitle1": "Awesome",
-          "text1": "A 12 week workshop designed to help the emotionally broken human being to begin to heal from negative and traumatic experiences that led to dysfunctional behavior patterns and a destructive lifestyle.",
+          "text1": "A 12 week workshop designed to help the emotionally broken human being to begin to heal from negative and traumatic experiences that led to dysfunctional behavior patterns and a destructive lifestyle.&nbsp;SAR also provides facilitator training for anyone interested. <br><br>",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "iconFont": {
@@ -1809,7 +1819,7 @@
           "number2": "<p>2</p>",
           "title2": "Houses of Healing",
           "subtitle2": "Awesome",
-          "text2": "A journey a personal growth, a very powerful improvement curriculum that will teach you how to heal and reconnect back to the core-self and give you the skills to help the youth and others in the community. That will reinforce your belief that people can change and become productive members of society . ( SAR also provides facilitator training for anyone interested.&nbsp;<br>",
+          "text2": "A journey a personal growth, a very powerful improvement curriculum that will teach you how to heal and reconnect back to the core-self and give you the skills to help the youth and others in the community. This workshop will reinforce your belief that people can change and become productive members of society .&nbsp;<br>",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media3": {
             "iconFont": {
@@ -2017,7 +2027,7 @@
                 "authorBio": "Youthful Offender (Valley State Prison)",
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/mbr-160x118.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/california-medical-facility-2017-sar-facilitator-training-2000x1500.jpg",
                     "class": "img-circle",
                     "link": "https://mobirise.com",
                     "height": 160,
@@ -4016,7 +4026,7 @@
                 "active": false
               },
               {
-                "tags": "2017",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -4024,7 +4034,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/june-2017-burbank-high-sar-graduation-1600x1200-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "2017 Burbank High SAR Graduation",
+                "caption": "2016 Burbank High SAR Graduation",
                 "active": false
               },
               {
@@ -4052,7 +4062,7 @@
                 "active": false
               },
               {
-                "tags": "2017",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -4060,7 +4070,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/group-meeting-with-daniel-2000x747-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "2017 Group Meeting with SAR",
+                "caption": "2018 UC Berkley School of Law Presentation",
                 "active": false
               },
               {
@@ -4121,6 +4131,30 @@
                 "alt": "",
                 "title": "",
                 "caption": "2019 Build Black Support",
+                "active": false
+              },
+              {
+                "tags": "2018",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2019-robin-casarjin-bethany-casarjin-author-of-power-source-and-houses-of-healing-600x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2019-robin-casarjin-bethany-casarjin-author-of-power-source-and-houses-of-healing-600x800-600x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "2019 Robin &amp; Bethany Casarjin Author of Power Source and Houses of Healing",
+                "active": false
+              },
+              {
+                "tags": "2019",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2019-robin-bethany-casarjin-author-of-power-source-and-houses-of-healing-event-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2019-robin-bethany-casarjin-author-of-power-source-and-houses-of-healing-event-800x600-799x599.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "2019 Robin &amp; Bethany Casarjin Author of Power Source and Houses of Healing",
                 "active": true
               }
             ]
