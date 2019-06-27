@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SAR (go live)",
-    "currentPage": "index.html",
+    "currentPage": "donate-to-sar.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -3455,7 +3455,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/capture-1199x811.png",
+              "src": "@PROJECT_PATH@/assets/images/background-1099x720.jpg",
               "link": "",
               "alt": "",
               "title": ""

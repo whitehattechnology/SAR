@@ -811,6 +811,10 @@ a:hover {
   margin-bottom: 1rem;
   color: #ffffff;
 }
+#content5-1l .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
 #content5-1l .mbr-table-cell {
   vertical-align: middle;
 }
@@ -821,6 +825,10 @@ a:hover {
 #content5-2m .mbr-section-subtitle {
   margin-bottom: 1rem;
   color: #ffffff;
+}
+#content5-2m .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
 }
 #content5-2m .mbr-table-cell {
   vertical-align: middle;
