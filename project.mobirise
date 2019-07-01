@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SAR (go live)",
-    "currentPage": "index.html",
+    "currentPage": "Calendar-Page.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -246,7 +246,7 @@
             }
           },
           "title": "Download for Windows",
-          "text": "The Self-Awareness &amp; Recovery (SAR)\n<br>program is designed to reduce recidivism\n<br>and incarceration rates. The goal is to help\n<br>adult and youth offenders heal from the\n<br>emotional wounds they experienced\n<br>during their formative years. Through self-\n<br>awareness we seek to explore the causative\n<br>factors that led to destructive life styles.\n<br>Through recovery we aim to teach healthy\n<br>coping skills for the preservation of\n<br>freedom and prosperity for those we serve.",
+          "text": "The Self-Awareness &amp; Recovery (SAR)\nprogram is designed to reduce recidivism\nand incarceration rates. The goal is to help\n<br>adult and youth offenders heal from the\nemotional wounds they experienced\n<br>during their formative years. Through self-awareness we seek to explore the causative\n<br>factors that led to destructive life styles. Through recovery we aim to teach healthy\ncoping skills for the preservation of\nfreedom and prosperity for those we serve.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_tags": [
             "Theme"
@@ -341,7 +341,7 @@
           "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
           "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
           "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
-          "text1": "<p>➢ Emotional support workshops for ex-felons and their families.\n</p><p>➢ Youth Violence Intervation plans.</p><p>➢ Youth intervention outreach programs  for At-Risk Youth (juvenile facilities, schools, etc.)</p>",
+          "text1": "<p>➢ Emotional support workshops for ex-felons and their families.\n</p><p>➢ Youth Violence Intervention Workshops.</p><p>➢ Youth intervention outreach programs  for At-Risk Youth (juvenile facilities, schools, etc.)</p>",
           "text2": "<p>➢ Publish quarterly newsletters.</p><p>➢ SAR approved literature, curriculums,\n&nbsp;<span style=\"font-size: 1rem;\">DVD’s and materials (through correctional&nbsp;</span><span style=\"font-size: 1rem;\">agencies across the country).</span></p><p><span style=\"font-size: 1rem;\">➢ Information on transitional housing, re-\r</span><span style=\"font-size: 1rem;\">entry and employment opportunities.</span></p><p><br></p>",
           "text3": "<p>➢ SAR community healing circles for people\n&nbsp;<span style=\"font-size: 1rem;\">who want to change their lives.</span></p><p><span style=\"font-size: 1rem;\">➢ Helps to reduce the recidivism rates of incarceration by working with at risk youth and community based organizations; that are working on changing the narrative of individuals affected by the war on drugs.</span></p><p><span style=\"font-size: 1rem;\">➢Our goal is to reduce recidivism rates of incarceration via trauma informed healing based workshops that can transform people lives with tools that lead to productive mentors in the community.</span></p>",
           "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
@@ -2858,7 +2858,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<div class=\"responsiveCal\">\n<iframe src=\"https://calendar.google.com/calendar/embed?src=selfawarenessrecovery.org_h6ugj889a9j1rc7vd04n6mr37c%40group.calendar.google.com&amp;ctz=America%2FPhoenix\" style=\"border: 0\" width=\"800\" height=\"600\" frameborder=\"0\" scrolling=\"no\"></iframe>\n</div>",
+          "_customHTML": "<div class=\"responsiveCal\">\n<iframe src=\"https://calendar.google.com/calendar/embed?src=selfawarenessrecovery.org_h6ugj889a9j1rc7vd04n6mr37c%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles\" style=\"border: 0\" width=\"800\" height=\"600\" frameborder=\"0\" scrolling=\"no\"></iframe>\n</div>\n\n",
           "_customCSS": ".responsiveCal {\n \nposition: relative; padding-bottom: 75%; height: 0; overflow: hidden;\n \n}\n \n.responsiveCal iframe {\n \nposition: absolute; top:0; left: 0; width: 100%; height: 100%;\n \n}",
           "alias": "code-editor",
           "_tags": [
